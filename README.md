@@ -1,4 +1,3 @@
-NEW README
 <a id="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
